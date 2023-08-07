@@ -49,15 +49,15 @@ npm run dev
 
 ### Desktop
 
-![Desktop Light](./public/screenshots/desktop-social-media-dashboard-light.png)
+![Desktop Light](./social-media-dashboard/public/screenshots/desktop-social-media-dashboard-light.png)
 
-![Desktop Dark](./public/screenshots/desktop-social-media-dashboard-dark.png)
+![Desktop Dark](./social-media-dashboard/public/screenshots/desktop-social-media-dashboard-dark.png)
 
 ### Mobile
 
-![Mobile Light](./public/screenshots/mobile-social-media-dashboard-light.png)
+![Mobile Light](./social-media-dashboard/public/screenshots/mobile-social-media-dashboard-light.png)
 
-![Mobile Dark](./public/screenshots/mobile-social-media-dashboard-dark.png)
+![Mobile Dark](./social-media-dashboard/public/screenshots/mobile-social-media-dashboard-dark.png)
 
 
 ## What I Learned
